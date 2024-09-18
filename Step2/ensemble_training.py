@@ -1,3 +1,7 @@
+##########################################################
+# A python script to train the THOR NN ensemble
+##########################################################
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 
 

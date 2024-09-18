@@ -1,3 +1,9 @@
+#########################################################################################
+# Python script for running SHAP analysis on the THOR NN ensemble
+# Saves SHAP values every 10 models because this takes a long time to run
+# and could be interrupted
+#########################################################################################
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 

@@ -4,4 +4,4 @@ Algorithm to infer dynamical regimes: Tracking global Heating with Ocean Regimes
 Change: New Knowledge Through Physics-Guided Machine Learning. NeurIPS Workshop: Tackling Climate Change
 with Machine Learning. https://arxiv.org/pdf/2310.13916
 
-Accompanying data for Steps 2 and 3 may be found [here](https://doi.org/10.5281/zenodo.13787512).
+Accompanying data may be found [here](https://doi.org/10.5281/zenodo.13787512).
